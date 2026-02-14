@@ -27,7 +27,7 @@ The raw dataset underwent a rigorous "Data Approval" gate process to ensure high
 * **Gender**: Removed "Unknown/Invalid" rows to maintain demographic accuracy.
 
 ### 2. Feature Selection & Reduction
-* **Irrelevant Columns**: Removed 21 columns including `admission_source_id`, `diag_2`, and `diag_3` to focus on primary triggers.
+* **Irrelevant Columns**: Removed 21 columns including `diag_2`, and `diag_3` to focus on primary triggers.
 * **Medication Cleanup**: Targeted 24 specific medication columns (e.g., Repaglinide, Nateglinide, Acarbose) for removal to simplify the medication change analysis.
 
 ### 3. Record Deduplication
@@ -51,3 +51,4 @@ We created new logical features to answer specific clinical questions:
     * `MaxGlu_High`: 1 if result >200 or >300.
 
 ---
+
