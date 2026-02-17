@@ -1,1 +1,1 @@
-# Data & Visual Analytics Group Capstone Project - Group 16
+# Data & Visual Analytics Capstone Project - Group 16
