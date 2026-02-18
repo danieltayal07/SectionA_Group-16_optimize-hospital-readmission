@@ -132,7 +132,7 @@ Interactive dashboard built in Google Sheets with filters for Age, Primary Condi
 | **Dhruv Ramani** | ✔ | | ✔ | ✔ | ✔ | | Analysis Lead |
 | **Aaryan Gera** | | ✔ | ✔ | ✔ | | ✔ | Dashboard Lead |
 | **Anushka Tyagi** | | ✔ | ✔ | | ✔ | ✔ | PPT & Quality Lead |
-| **Daniel Tayar** | ✔ | | ✔ | | | ✔ | Strategy Lead |
+| **Daniel Tayal** | ✔ | | ✔ | | | ✔ | Strategy Lead |
 
 ---
 
